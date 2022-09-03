@@ -1,5 +1,7 @@
+import Main from './Components';
+
 function App() {
-    return <p>Hello</p>;
+    return <Main />;
 }
 
 export default App;
