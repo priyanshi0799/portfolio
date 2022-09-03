@@ -1,0 +1,18 @@
+.navItemsContainer {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    gap: 7%;
+}
+
+.navItems {
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.navItems:hover {
+    font-size: 20px;
+    text-decoration: underline;
+    transition: 0.2s ease-in-out;
+}

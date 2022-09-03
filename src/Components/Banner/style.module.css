@@ -4,10 +4,11 @@
     position: relative;
 }
 
-.logo {
-    position: absolute;
-    left: 10px;
-    top: 20px;
+.logoNavWrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 }
 
 .name {
